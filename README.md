@@ -3,9 +3,13 @@
 State Space model of a Tandem wing UAV for cruise flight condition. MATLAB file format ".mat"
 
 Matlab File ".mat" contains state space matrices (A, B, C & D)
+
 No. of Inputs: 4 (Aileron, Elevator, Rudder & Throttle commands) in the same order
+
 No. of States: 10 (U, V, W, P, Q, R, Phi, Theta, Psi, Altitude) in the same order
+
 No. of Outputs: 10 (All the states are made available at output)
+
 'D' is a zero matrix
 
 
